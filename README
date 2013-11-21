@@ -1,0 +1,7 @@
+Arduino library for DS3231 RTC
+
+Based on the library for the DS1307 RTC, extra functions have been added to control the alarms on the DS3231
+
+Requires the Arduino Time library to be loaded
+
+More information is in the GitHub wiki for this project
